@@ -1,0 +1,36 @@
+#container{
+    display: flex;
+    justify-content: center;
+}
+.boxes{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    margin: 10px;
+    border: 10px solid black;
+
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+#heading2{
+    text-align: center;
+}
